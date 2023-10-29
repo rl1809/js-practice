@@ -1,0 +1,1 @@
+This repo contains my code for js practice including both FE and BE.
